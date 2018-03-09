@@ -6,7 +6,7 @@ require "variant/version"
 Gem::Specification.new do |spec|
   spec.name          = "variant"
   spec.version       = Variant::VERSION
-  spec.authors       = ["chikara"]
+  spec.authors       = ["CHIKARA"]
   spec.email         = ["a5813073@aoyama.jp"]
 
   spec.summary       = %q{Variant character selector conversion library}
