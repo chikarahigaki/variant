@@ -6,12 +6,12 @@ require "variant/version"
 Gem::Specification.new do |spec|
   spec.name          = "variant"
   spec.version       = Variant::VERSION
-  spec.authors       = ["chikarahigaki"]
-  spec.email         = ["higakichikara@yahoo.co.jp"]
+  spec.authors       = ["chikara"]
+  spec.email         = ["a5813073@aoyama.jp"]
 
   spec.summary       = %q{Variant character selector conversion library}
   spec.description   = %q{Conversion of Kanji, IVS}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/chikarahigaki/variant"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
