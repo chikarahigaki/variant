@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "variant"
   spec.version       = Variant::VERSION
   spec.authors       = ["chikara_higaki"]
-  spec.email         = ["HigakiChikara@yahoo.co.jp"]
+  spec.email         = ["higakichikara@yahoo.co.jp"]
 
   spec.summary       = %q{Variant character selector conversion library}
   spec.description   = %q{Conversion of Kanji, IVS}
